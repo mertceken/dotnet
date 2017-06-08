@@ -1,0 +1,128 @@
+﻿@{
+    Layout = null;
+}
+@model SporMagazasi.Models.Model.Product
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Decathlon</title>
+    <!-- Bootstrap Core CSS -->
+    <script src="~/js/bootstrap.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/contact_me.js"></script>
+    <script src="~/js/jqBootstrapValidation.js"></script>
+    <script src="~/js/jquery.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/js/jqBootstrapValidation.js"></script>
+    <!-- Custom CSS -->
+    <link href="css/modern-business.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link href="~/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/modern-business.css" rel="stylesheet" />
+    <link href="~/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    
+    <title>AddProduct</title>
+</head>
+<body style="background-color:#f5d9d9;">
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a href="/Admin/AddProduct/">Ürün Ekle<b class="caret"></b></a>
+
+            </li>
+            <li>
+                <a href="/Admin/ProductList">Ürün Listele <b class="caret"></b></a>
+
+            </li>
+            <li>
+                <a href="/Admin/AddCategory">Kategori Ekle <b class="caret"></b></a>
+
+            </li>
+            <li>
+                <a href="/Admin/CategoryList">Kategori Listele <b class="caret"></b></a>
+
+            </li>
+
+            
+
+        </ul>
+    </div>
+    <div>
+        <table>
+
+
+            @using (Html.BeginForm())
+            {
+                <tr>
+                    <td style="font-family:Calibri;font-weight:bold;font-size:15px;">@Html.Label("Ürün Adı")</td>
+                    <td>@Html.TextBoxFor(x => x.ProductName)</td>
+                </tr>
+                <tr>
+                    <td style="font-family:Calibri;font-weight:bold;font-size:15px;">@Html.Label("Fiyatı")</td>
+                    <td>@Html.TextBoxFor(x => x.UnitPrice)</td>
+                </tr>
+                <tr>
+                    <td style="font-family:Calibri;font-weight:bold;font-size:15px;">@Html.Label("Stok Adedi")</td>
+                    <td>@Html.TextBoxFor(x => x.UnitStock)</td>
+                </tr>
+                <tr>
+                    <td style="font-family:Calibri;font-weight:bold;font-size:15px;">@Html.Label("Kategori")</td>
+                    <td>@Html.DropDownList("CategoryId", "Seçiniz..")</td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Ürün Fotoğrafı")
+                        <input type="file" id="inputFile" name="file" /> 
+                    </td>
+                    <td>
+
+                     
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center" ><input type="submit" value="Kaydet" name="name" style="background-color:#cec2c2;font-family:Calibri;" /></td>
+                </tr>
+
+
+
+
+
+
+
+
+
+                //@Html.ValidationMessageFor(model => model.CategoryId)
+            }
+
+        </table>
+    </div>
+</body>
+</html>
+
+<script type="text/javascript">
+    $(function () {
+        $("#adet").append("<option value='0'>Dosya Adeti Seçiniz...</option>");
+        for (var i = 1; i <= 20; i++) {
+            $("#adet").append("<option value='" + i + "'>" + i + "</option>");
+        }
+        $("#adet").change(function () {
+            var adet = $("#adet").val();
+            $("#files").html("");
+            for (var i = 0; i < adet; i++) {
+                $("#files").append("<p><input type='file' name='file_" + i + "'></p>");
+            }
+        });
+    });
+</script>

@@ -1,0 +1,42 @@
+﻿body {
+}
+a {
+font-family:Calibri;
+font-size:15px;
+color:black;
+font-weight:bold;
+background-color:#e1d7d7;
+border:1px solid #808080;
+padding:15px;
+margin-right:15px;
+text-decoration-style:none;
+text-decoration:none;
+
+
+}
+    a:hover {
+    background-color:#1951d5;
+    color:white;
+    font-weight:bold;
+    font-size:15px;
+    
+    }
+
+.div {
+
+margin-top:30px;
+}
+.div2 {
+ margin-left:30%;
+ width:600px;
+
+}
+
+.header {
+
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:10px;
+
+
+}

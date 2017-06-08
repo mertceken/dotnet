@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+@model SporMagazasi.Models.Model.User
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div> 
+        @using (Html.BeginForm())
+
+        {
+        @Html.Label("Kullanıcı Adı");
+            @Html.TextBoxFor(x =>x.UserName);
+            @Html.Label("Parola");
+            @Html.TextBoxFor(x => x.Password);
+            <input type="submit" value="Login" />
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,73 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+@model SporMagazasi.Models.Model.Category
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Decathlon</title>
+    <!-- Bootstrap Core CSS -->
+    <script src="~/js/bootstrap.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/contact_me.js"></script>
+    <script src="~/js/jqBootstrapValidation.js"></script>
+    <script src="~/js/jquery.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/js/jqBootstrapValidation.js"></script>
+    <!-- Custom CSS -->
+    <link href="css/modern-business.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link href="~/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/modern-business.css" rel="stylesheet" />
+    <link href="~/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+    <div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="/Admin/AddProduct/">Ürün Ekle<b class="caret"></b></a>
+
+                </li>
+                <li>
+                    <a href="/Admin/ProductList">Ürün Listele <b class="caret"></b></a>
+
+                </li>
+                <li>
+                    <a href="/Admin/AddCategory">Kategori Ekle <b class="caret"></b></a>
+
+                </li>
+                <li>
+                    <a href="/Admin/CategoryList">Kategori Listele <b class="caret"></b></a>
+
+                </li>
+
+
+
+            </ul>
+        </div>
+        <form action="/Admin/EditCategory" method="post">
+            @Html.HiddenFor(a => a.CategoryID)
+            <label>Kategori</label>
+            <input type="text" name="CategoryName" value="@Model.CategoryName" />
+
+            <label>Açıklama</label>
+            <input type="text" name="Description" value="@Model.Description" />
+            <input type="submit" name="name" value="Güncelle" />
+        </form>
+    </div>
+</body>
+</html>
