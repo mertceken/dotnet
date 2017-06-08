@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\JqueryGetRSS\JqueryGetRSS\bin\JqueryGetRSS.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\JqueryGetRSS\JqueryGetRSS\bin\JqueryGetRSS.dll
+c:\users\admin\documents\visual studio 2013\Projects\JqueryGetRSS\JqueryGetRSS\bin\JqueryGetRSS.pdb
+c:\users\admin\documents\visual studio 2013\Projects\JqueryGetRSS\JqueryGetRSS\obj\Debug\JqueryGetRSS.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\JqueryGetRSS\JqueryGetRSS\obj\Debug\JqueryGetRSS.dll
+c:\users\admin\documents\visual studio 2013\Projects\JqueryGetRSS\JqueryGetRSS\obj\Debug\JqueryGetRSS.pdb

@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+</head>
+<body>
+    <button id="tikla">Getir</button>
+    <div id="milliyet">
+        <p id="baslik"></p>
+        <ul>
+           
+        </ul>
+       
+    </div>
+</body>
+</html>
+<script>
+    $("#tikla").click(function () {
+        $.ajax({
+            url: document.location.protocol + '//ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=1000&callback=?&q=' + encodeURIComponent('http://kartalbakisi.com/rss.rss'),
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                $("#baslik").append(data.responseData.feed.title)
+                values = data.responseData.feed.entries;
+                
+                $.each(values, function (key, item) {
+               
+                    $("ul").append("<a href = " + item.link + ">" + "<li>" + item.title + "</li>" + "</a>" + "<p>" + item.publishedDate + "</p>");
+                   // $("p").append(item.publishedDate)
+                })
+            
+            },
+            error: function () {
+                alert("olmadı");
+            }
+
+        })
+    })
+        
+
+</script>
