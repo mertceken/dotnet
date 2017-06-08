@@ -1,0 +1,1 @@
+{  "name": "Snake Project",  "version": "1.0",  "manifest_version": 2,  "description": "Snake Javascript Project",  "browser_action": {    "default_icon": "snake.png", "default_popup" :"snake.html"  }}
