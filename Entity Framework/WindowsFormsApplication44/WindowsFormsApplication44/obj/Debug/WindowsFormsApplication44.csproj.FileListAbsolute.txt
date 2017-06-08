@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\bin\Debug\WindowsFormsApplication44.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\bin\Debug\WindowsFormsApplication44.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\bin\Debug\WindowsFormsApplication44.pdb
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\obj\Debug\WindowsFormsApplication44.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\obj\Debug\WindowsFormsApplication44.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\obj\Debug\WindowsFormsApplication44.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\obj\Debug\WindowsFormsApplication44.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\obj\Debug\WindowsFormsApplication44.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication44\WindowsFormsApplication44\obj\Debug\WindowsFormsApplication44.pdb
