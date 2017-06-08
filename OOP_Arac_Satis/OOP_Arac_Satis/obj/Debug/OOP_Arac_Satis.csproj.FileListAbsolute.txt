@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\OOP_Arac_Satis\OOP_Arac_Satis\bin\Debug\OOP_Arac_Satis.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\OOP_Arac_Satis\OOP_Arac_Satis\bin\Debug\OOP_Arac_Satis.exe
+c:\users\admin\documents\visual studio 2013\Projects\OOP_Arac_Satis\OOP_Arac_Satis\bin\Debug\OOP_Arac_Satis.pdb
+c:\users\admin\documents\visual studio 2013\Projects\OOP_Arac_Satis\OOP_Arac_Satis\obj\Debug\OOP_Arac_Satis.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\OOP_Arac_Satis\OOP_Arac_Satis\obj\Debug\OOP_Arac_Satis.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\OOP_Arac_Satis\OOP_Arac_Satis\obj\Debug\OOP_Arac_Satis.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\OOP_Arac_Satis\OOP_Arac_Satis\obj\Debug\OOP_Arac_Satis.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\OOP_Arac_Satis\OOP_Arac_Satis\obj\Debug\OOP_Arac_Satis.exe
+c:\users\admin\documents\visual studio 2013\Projects\OOP_Arac_Satis\OOP_Arac_Satis\obj\Debug\OOP_Arac_Satis.pdb
