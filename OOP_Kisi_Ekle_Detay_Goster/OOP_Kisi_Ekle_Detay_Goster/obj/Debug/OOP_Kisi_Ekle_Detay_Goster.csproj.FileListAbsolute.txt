@@ -1,0 +1,9 @@
+c:\users\eren\documents\visual studio 2013\Projects\OOP_Kisi_Ekle_Detay_Goster\OOP_Kisi_Ekle_Detay_Goster\bin\Debug\OOP_Kisi_Ekle_Detay_Goster.exe.config
+c:\users\eren\documents\visual studio 2013\Projects\OOP_Kisi_Ekle_Detay_Goster\OOP_Kisi_Ekle_Detay_Goster\bin\Debug\OOP_Kisi_Ekle_Detay_Goster.exe
+c:\users\eren\documents\visual studio 2013\Projects\OOP_Kisi_Ekle_Detay_Goster\OOP_Kisi_Ekle_Detay_Goster\bin\Debug\OOP_Kisi_Ekle_Detay_Goster.pdb
+c:\users\eren\documents\visual studio 2013\Projects\OOP_Kisi_Ekle_Detay_Goster\OOP_Kisi_Ekle_Detay_Goster\obj\Debug\OOP_Kisi_Ekle_Detay_Goster.csprojResolveAssemblyReference.cache
+c:\users\eren\documents\visual studio 2013\Projects\OOP_Kisi_Ekle_Detay_Goster\OOP_Kisi_Ekle_Detay_Goster\obj\Debug\OOP_Kisi_Ekle_Detay_Goster.Form1.resources
+c:\users\eren\documents\visual studio 2013\Projects\OOP_Kisi_Ekle_Detay_Goster\OOP_Kisi_Ekle_Detay_Goster\obj\Debug\OOP_Kisi_Ekle_Detay_Goster.Properties.Resources.resources
+c:\users\eren\documents\visual studio 2013\Projects\OOP_Kisi_Ekle_Detay_Goster\OOP_Kisi_Ekle_Detay_Goster\obj\Debug\OOP_Kisi_Ekle_Detay_Goster.csproj.GenerateResource.Cache
+c:\users\eren\documents\visual studio 2013\Projects\OOP_Kisi_Ekle_Detay_Goster\OOP_Kisi_Ekle_Detay_Goster\obj\Debug\OOP_Kisi_Ekle_Detay_Goster.exe
+c:\users\eren\documents\visual studio 2013\Projects\OOP_Kisi_Ekle_Detay_Goster\OOP_Kisi_Ekle_Detay_Goster\obj\Debug\OOP_Kisi_Ekle_Detay_Goster.pdb
