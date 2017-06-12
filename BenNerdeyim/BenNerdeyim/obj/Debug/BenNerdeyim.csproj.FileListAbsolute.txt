@@ -1,0 +1,6 @@
+C:\Users\Admin\Source\Workspaces\Workspace\BenNerdeyim\BenNerdeyim\bin\BenNerdeyim.dll.config
+C:\Users\Admin\Source\Workspaces\Workspace\BenNerdeyim\BenNerdeyim\bin\BenNerdeyim.dll
+C:\Users\Admin\Source\Workspaces\Workspace\BenNerdeyim\BenNerdeyim\bin\BenNerdeyim.pdb
+C:\Users\Admin\Source\Workspaces\Workspace\BenNerdeyim\BenNerdeyim\obj\Debug\BenNerdeyim.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Workspaces\Workspace\BenNerdeyim\BenNerdeyim\obj\Debug\BenNerdeyim.dll
+C:\Users\Admin\Source\Workspaces\Workspace\BenNerdeyim\BenNerdeyim\obj\Debug\BenNerdeyim.pdb

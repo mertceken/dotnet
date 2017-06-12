@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true&libraries=places"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>
+    <script src="location.js"></script>
+    <script src="koordinat.js"></script>
+</head>
+<body>
+    <div data-role="page" id="page1">
+        <div data-role="header" class="ui-btn ui-btn ui-icon-home ui-btn-icon-right">
+            <h1>Ben Neredeyim?</h1>
+            <a href="#page2" data-transition="slideup" style="margin-top:5px" class="ui-btn ui-icon-arrow-r ui-btn-icon-left">Koordinat Girerek Ara</a>
+        </div>
+        <div data-role="content">
+            <input type="search" name="name" id="pac-input" value="" />
+            <div id="map-canvas" style="height:350px"></div>
+        </div>
+        <div data-role="footer">
+            <h5>YG3 4309</h5>
+        </div>
+    </div>
+
+    <div data-role="page" id="page2">
+        <div data-role="header" class="ui-btn ui-btn ui-icon-home ui-btn-icon-right">
+            <h1>Ben Neredeyim?</h1>
+            <a href="#page1" data-transition="flip" style="margin-top:5px" class="ui-btn ui-icon-back ui-btn-icon-left">Lokasyon Girerek Ara</a>
+        </div>
+        <div data-role="content">
+            <input type="text" name="latitude" id="enlem" value="" placeholder="Enlem Giriniz" />
+            <input type="text" name="loutitude" id="boylam" value="" placeholder="Boylam Giriniz" />
+            <input type="submit" class="ui-btn ui-btn-icon-search ui-btn-icon-right" name="name" id="ara" onclick="bul()" value="Ara" />
+            <div id="harita" style="height:350px"></div>
+
+        </div>
+        <div data-role="footer">
+            <h5>YG3 4309</h5>
+        </div>
+    </div>
+</body>
+</html>
+
