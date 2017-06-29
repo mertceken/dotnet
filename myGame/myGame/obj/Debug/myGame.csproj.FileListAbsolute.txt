@@ -1,0 +1,1 @@
+c:\users\mert\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\myGame.exe.config
