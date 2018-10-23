@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7B2338D1-5DEF-4501-BA71-416CE3C56D68}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MKTakip</RootNamespace>
+    <AssemblyName>MKTakip</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAnaPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnaPanel.Designer.cs">
+      <DependentUpon>frmAnaPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiris.Designer.cs">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHakkimizda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHakkimizda.Designer.cs">
+      <DependentUpon>frmHakkimizda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKasa.Designer.cs">
+      <DependentUpon>frmKasa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKasaListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKasaListe.Designer.cs">
+      <DependentUpon>frmKasaListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKasaOdeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKasaOdeme.Designer.cs">
+      <DependentUpon>frmKasaOdeme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMusteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMusteri.Designer.cs">
+      <DependentUpon>frmMusteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMusteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMusteriEkle.Designer.cs">
+      <DependentUpon>frmMusteriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMusteriListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMusteriListe.Designer.cs">
+      <DependentUpon>frmMusteriListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonel.Designer.cs">
+      <DependentUpon>frmPersonel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelEkle.Designer.cs">
+      <DependentUpon>frmPersonelEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelGelenGorev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelGelenGorev.Designer.cs">
+      <DependentUpon>frmPersonelGelenGorev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelGidenGorev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelGidenGorev.Designer.cs">
+      <DependentUpon>frmPersonelGidenGorev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelGorev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelGorev.Designer.cs">
+      <DependentUpon>frmPersonelGorev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelGorevDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelGorevDetay.Designer.cs">
+      <DependentUpon>frmPersonelGorevDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelGorevEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelGorevEkle.Designer.cs">
+      <DependentUpon>frmPersonelGorevEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelListe.Designer.cs">
+      <DependentUpon>frmPersonelListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelMesaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelMesaj.Designer.cs">
+      <DependentUpon>frmPersonelMesaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelMesajEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelMesajEkle.Designer.cs">
+      <DependentUpon>frmPersonelMesajEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelMesajGelen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelMesajGelen.Designer.cs">
+      <DependentUpon>frmPersonelMesajGelen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelMesajGiden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelMesajGiden.Designer.cs">
+      <DependentUpon>frmPersonelMesajGiden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProje.Designer.cs">
+      <DependentUpon>frmProje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProjeEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProjeEkle.Designer.cs">
+      <DependentUpon>frmProjeEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProjeListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProjeListe.Designer.cs">
+      <DependentUpon>frmProjeListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUrun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUrun.Designer.cs">
+      <DependentUpon>frmUrun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUrunListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUrunListe.Designer.cs">
+      <DependentUpon>frmUrunListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUrunEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUrunEkle.Designer.cs">
+      <DependentUpon>frmUrunEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAnaPanel.resx">
+      <DependentUpon>frmAnaPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiris.resx">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHakkimizda.resx">
+      <DependentUpon>frmHakkimizda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKasa.resx">
+      <DependentUpon>frmKasa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMusteri.resx">
+      <DependentUpon>frmMusteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonel.resx">
+      <DependentUpon>frmPersonel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelGorev.resx">
+      <DependentUpon>frmPersonelGorev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelMesaj.resx">
+      <DependentUpon>frmPersonelMesaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProje.resx">
+      <DependentUpon>frmProje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUrun.resx">
+      <DependentUpon>frmUrun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44 ekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TOP BAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BACKGROUND.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
