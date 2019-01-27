@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\bin\Debug\190126_bireysel_proje.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\bin\Debug\190126_bireysel_proje.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\bin\Debug\190126_bireysel_proje.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\obj\Debug\190126_bireysel_proje.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\obj\Debug\_190126_bireysel_proje.Forms.frmDashboard.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\obj\Debug\_190126_bireysel_proje.Form1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\obj\Debug\_190126_bireysel_proje.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\obj\Debug\190126_bireysel_proje.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\obj\Debug\190126_bireysel_proje.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\obj\Debug\190126_bireysel_proje.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\obj\Debug\190126_bireysel_proje.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\190126_bireysel_proje\190126_bireysel_proje\bin\Debug\EntityFramework.SqlServer.xml
