@@ -1,0 +1,10 @@
+D:\Hİ 201812-814\13-Api-Service\190419_KimlikSorgulama_Service\190419_KimlikSorgulama_Service\bin\Debug\190419_KimlikSorgulama_Service.exe.config
+D:\Hİ 201812-814\13-Api-Service\190419_KimlikSorgulama_Service\190419_KimlikSorgulama_Service\bin\Debug\190419_KimlikSorgulama_Service.exe
+D:\Hİ 201812-814\13-Api-Service\190419_KimlikSorgulama_Service\190419_KimlikSorgulama_Service\bin\Debug\190419_KimlikSorgulama_Service.pdb
+D:\Hİ 201812-814\13-Api-Service\190419_KimlikSorgulama_Service\190419_KimlikSorgulama_Service\obj\Debug\190419_KimlikSorgulama_Service.csprojAssemblyReference.cache
+D:\Hİ 201812-814\13-Api-Service\190419_KimlikSorgulama_Service\190419_KimlikSorgulama_Service\obj\Debug\_190419_KimlikSorgulama_Service.Form1.resources
+D:\Hİ 201812-814\13-Api-Service\190419_KimlikSorgulama_Service\190419_KimlikSorgulama_Service\obj\Debug\_190419_KimlikSorgulama_Service.Properties.Resources.resources
+D:\Hİ 201812-814\13-Api-Service\190419_KimlikSorgulama_Service\190419_KimlikSorgulama_Service\obj\Debug\190419_KimlikSorgulama_Service.csproj.GenerateResource.cache
+D:\Hİ 201812-814\13-Api-Service\190419_KimlikSorgulama_Service\190419_KimlikSorgulama_Service\obj\Debug\190419_KimlikSorgulama_Service.csproj.CoreCompileInputs.cache
+D:\Hİ 201812-814\13-Api-Service\190419_KimlikSorgulama_Service\190419_KimlikSorgulama_Service\obj\Debug\190419_KimlikSorgulama_Service.exe
+D:\Hİ 201812-814\13-Api-Service\190419_KimlikSorgulama_Service\190419_KimlikSorgulama_Service\obj\Debug\190419_KimlikSorgulama_Service.pdb
