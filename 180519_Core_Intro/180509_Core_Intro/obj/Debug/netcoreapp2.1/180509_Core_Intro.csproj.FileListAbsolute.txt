@@ -1,0 +1,11 @@
+C:\Users\mert_\source\repos\180509_Core_Intro\180509_Core_Intro\bin\Debug\netcoreapp2.1\180509_Core_Intro.deps.json
+C:\Users\mert_\source\repos\180509_Core_Intro\180509_Core_Intro\bin\Debug\netcoreapp2.1\180509_Core_Intro.runtimeconfig.json
+C:\Users\mert_\source\repos\180509_Core_Intro\180509_Core_Intro\bin\Debug\netcoreapp2.1\180509_Core_Intro.runtimeconfig.dev.json
+C:\Users\mert_\source\repos\180509_Core_Intro\180509_Core_Intro\bin\Debug\netcoreapp2.1\180509_Core_Intro.dll
+C:\Users\mert_\source\repos\180509_Core_Intro\180509_Core_Intro\bin\Debug\netcoreapp2.1\180509_Core_Intro.pdb
+C:\Users\mert_\source\repos\180509_Core_Intro\180509_Core_Intro\obj\Debug\netcoreapp2.1\180509_Core_Intro.csprojAssemblyReference.cache
+C:\Users\mert_\source\repos\180509_Core_Intro\180509_Core_Intro\obj\Debug\netcoreapp2.1\180509_Core_Intro.csproj.CoreCompileInputs.cache
+C:\Users\mert_\source\repos\180509_Core_Intro\180509_Core_Intro\obj\Debug\netcoreapp2.1\180509_Core_Intro.AssemblyInfoInputs.cache
+C:\Users\mert_\source\repos\180509_Core_Intro\180509_Core_Intro\obj\Debug\netcoreapp2.1\180509_Core_Intro.AssemblyInfo.cs
+C:\Users\mert_\source\repos\180509_Core_Intro\180509_Core_Intro\obj\Debug\netcoreapp2.1\180509_Core_Intro.dll
+C:\Users\mert_\source\repos\180509_Core_Intro\180509_Core_Intro\obj\Debug\netcoreapp2.1\180509_Core_Intro.pdb
