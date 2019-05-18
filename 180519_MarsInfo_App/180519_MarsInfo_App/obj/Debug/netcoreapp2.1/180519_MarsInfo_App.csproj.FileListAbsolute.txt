@@ -1,0 +1,12 @@
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\bin\Debug\netcoreapp2.1\180519_MarsInfo_App.dll.config
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\bin\Debug\netcoreapp2.1\180519_MarsInfo_App.deps.json
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\bin\Debug\netcoreapp2.1\180519_MarsInfo_App.runtimeconfig.json
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\bin\Debug\netcoreapp2.1\180519_MarsInfo_App.runtimeconfig.dev.json
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\bin\Debug\netcoreapp2.1\180519_MarsInfo_App.dll
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\obj\Debug\netcoreapp2.1\180519_MarsInfo_App.csprojAssemblyReference.cache
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\obj\Debug\netcoreapp2.1\180519_MarsInfo_App.csproj.CoreCompileInputs.cache
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\obj\Debug\netcoreapp2.1\180519_MarsInfo_App.AssemblyInfoInputs.cache
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\obj\Debug\netcoreapp2.1\180519_MarsInfo_App.AssemblyInfo.cs
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\bin\Debug\netcoreapp2.1\180519_MarsInfo_App.pdb
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\obj\Debug\netcoreapp2.1\180519_MarsInfo_App.dll
+C:\Users\mert_\source\repos\180519_MarsInfo_App\180519_MarsInfo_App\obj\Debug\netcoreapp2.1\180519_MarsInfo_App.pdb
