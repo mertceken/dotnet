@@ -1,0 +1,15 @@
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\bin\Debug\HesapMakinesiTest.dll
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\bin\Debug\HesapMakinesiTest.pdb
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\bin\Debug\HesapMakinesi.dll
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\bin\Debug\HesapMakinesi.pdb
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\obj\Debug\HesapMakinesiTest.csprojAssemblyReference.cache
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\obj\Debug\HesapMakinesiTest.csproj.CopyComplete
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\obj\Debug\HesapMakinesiTest.dll
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesiTest\obj\Debug\HesapMakinesiTest.pdb

@@ -1,0 +1,8 @@
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesi\bin\Debug\netstandard2.0\HesapMakinesi.deps.json
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesi\bin\Debug\netstandard2.0\HesapMakinesi.dll
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesi\bin\Debug\netstandard2.0\HesapMakinesi.pdb
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.csprojAssemblyReference.cache
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.AssemblyInfo.cs
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.dll
+C:\Users\mert.ceken\source\repos\191016_1_UnitTest\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.pdb
