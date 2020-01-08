@@ -1,0 +1,8 @@
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\20191022_1_ClassLibary\bin\Debug\netstandard2.0\20191022_1_ClassLibary.deps.json
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\20191022_1_ClassLibary\bin\Debug\netstandard2.0\20191022_1_ClassLibary.dll
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\20191022_1_ClassLibary\bin\Debug\netstandard2.0\20191022_1_ClassLibary.pdb
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\20191022_1_ClassLibary\obj\Debug\netstandard2.0\20191022_1_ClassLibary.csprojAssemblyReference.cache
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\20191022_1_ClassLibary\obj\Debug\netstandard2.0\20191022_1_ClassLibary.AssemblyInfoInputs.cache
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\20191022_1_ClassLibary\obj\Debug\netstandard2.0\20191022_1_ClassLibary.AssemblyInfo.cs
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\20191022_1_ClassLibary\obj\Debug\netstandard2.0\20191022_1_ClassLibary.dll
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\20191022_1_ClassLibary\obj\Debug\netstandard2.0\20191022_1_ClassLibary.pdb

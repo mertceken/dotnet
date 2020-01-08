@@ -1,0 +1,11 @@
+C:\Users\mert.ceken\source\repos\190612_predict_house_price\190612_predict_house_price\bin\Debug\netcoreapp2.1\190612_predict_house_price.deps.json
+C:\Users\mert.ceken\source\repos\190612_predict_house_price\190612_predict_house_price\bin\Debug\netcoreapp2.1\190612_predict_house_price.runtimeconfig.json
+C:\Users\mert.ceken\source\repos\190612_predict_house_price\190612_predict_house_price\bin\Debug\netcoreapp2.1\190612_predict_house_price.runtimeconfig.dev.json
+C:\Users\mert.ceken\source\repos\190612_predict_house_price\190612_predict_house_price\bin\Debug\netcoreapp2.1\190612_predict_house_price.dll
+C:\Users\mert.ceken\source\repos\190612_predict_house_price\190612_predict_house_price\obj\Debug\netcoreapp2.1\190612_predict_house_price.csprojAssemblyReference.cache
+C:\Users\mert.ceken\source\repos\190612_predict_house_price\190612_predict_house_price\obj\Debug\netcoreapp2.1\190612_predict_house_price.csproj.CoreCompileInputs.cache
+C:\Users\mert.ceken\source\repos\190612_predict_house_price\190612_predict_house_price\obj\Debug\netcoreapp2.1\190612_predict_house_price.AssemblyInfoInputs.cache
+C:\Users\mert.ceken\source\repos\190612_predict_house_price\190612_predict_house_price\obj\Debug\netcoreapp2.1\190612_predict_house_price.AssemblyInfo.cs
+C:\Users\mert.ceken\source\repos\190612_predict_house_price\190612_predict_house_price\bin\Debug\netcoreapp2.1\190612_predict_house_price.pdb
+C:\Users\mert.ceken\source\repos\190612_predict_house_price\190612_predict_house_price\obj\Debug\netcoreapp2.1\190612_predict_house_price.dll
+C:\Users\mert.ceken\source\repos\190612_predict_house_price\190612_predict_house_price\obj\Debug\netcoreapp2.1\190612_predict_house_price.pdb

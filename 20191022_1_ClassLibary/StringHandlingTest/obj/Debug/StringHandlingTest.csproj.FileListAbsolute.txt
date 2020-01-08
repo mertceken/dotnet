@@ -1,0 +1,15 @@
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\obj\Debug\StringHandlingTest.csprojAssemblyReference.cache
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\bin\Debug\StringHandlingTest.dll
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\bin\Debug\StringHandlingTest.pdb
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\bin\Debug\20191022_1_ClassLibary.dll
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\bin\Debug\20191022_1_ClassLibary.pdb
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\obj\Debug\StringHandlingTest.csproj.CopyComplete
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\obj\Debug\StringHandlingTest.dll
+C:\Users\mert.ceken\source\repos\20191022_1_ClassLibary\StringHandlingTest\obj\Debug\StringHandlingTest.pdb
