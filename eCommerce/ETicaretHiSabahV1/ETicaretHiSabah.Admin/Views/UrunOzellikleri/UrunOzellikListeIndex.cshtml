@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ETicaret.DLL.UrunOzellikleri>
+
+@{
+    ViewBag.Title = "UrunOzellikListeIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>UrunOzellikListeIndex</h2>
+
+<p>
+    @Html.ActionLink("Özellik Ekle", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OzellikTanimi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OlcuBirimi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BirimStok)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.KalanStok)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Urunler.UrunAdi)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.OzellikTanimi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OlcuBirimi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BirimStok)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KalanStok)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Urunler.UrunAdi)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.UrunOzelliklerID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.UrunOzelliklerID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.UrunOzelliklerID })
+        </td>
+    </tr>
+}
+
+</table>

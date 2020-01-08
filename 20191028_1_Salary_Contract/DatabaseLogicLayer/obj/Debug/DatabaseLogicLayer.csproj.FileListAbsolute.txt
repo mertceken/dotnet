@@ -1,0 +1,11 @@
+C:\Users\mert_\source\repos\20191028_1_Salary_Contract\DatabaseLogicLayer\bin\Debug\DatabaseLogicLayer.dll.config
+C:\Users\mert_\source\repos\20191028_1_Salary_Contract\DatabaseLogicLayer\bin\Debug\DatabaseLogicLayer.dll
+C:\Users\mert_\source\repos\20191028_1_Salary_Contract\DatabaseLogicLayer\bin\Debug\DatabaseLogicLayer.pdb
+C:\Users\mert_\source\repos\20191028_1_Salary_Contract\DatabaseLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\mert_\source\repos\20191028_1_Salary_Contract\DatabaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mert_\source\repos\20191028_1_Salary_Contract\DatabaseLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\mert_\source\repos\20191028_1_Salary_Contract\DatabaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mert_\source\repos\20191028_1_Salary_Contract\DatabaseLogicLayer\obj\Debug\DatabaseLogicLayer.csprojAssemblyReference.cache
+C:\Users\mert_\source\repos\20191028_1_Salary_Contract\DatabaseLogicLayer\obj\Debug\DatabaseLogicLayer.csproj.CopyComplete
+C:\Users\mert_\source\repos\20191028_1_Salary_Contract\DatabaseLogicLayer\obj\Debug\DatabaseLogicLayer.dll
+C:\Users\mert_\source\repos\20191028_1_Salary_Contract\DatabaseLogicLayer\obj\Debug\DatabaseLogicLayer.pdb

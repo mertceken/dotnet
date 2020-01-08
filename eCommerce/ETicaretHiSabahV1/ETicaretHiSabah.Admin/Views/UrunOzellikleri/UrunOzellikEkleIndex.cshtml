@@ -1,0 +1,82 @@
+﻿
+@{
+    ViewBag.Title = "UrunOzellikEkleIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+<style>
+    .ozellik{
+        width:25%;
+   /*background-color:#808080;*/
+    }
+    .ozellikbuttn{
+        width:100%;
+    }
+</style>
+
+
+<form action="/UrunOzellik/UrunOzellikEkleIndex" method="post">
+    <div class="content-wrapper">
+        <div class="col-md-10 offset-1">
+
+            <div class="input-group">
+                <span class="input-group-btn ozellik">
+                    <button class="btn btn-default ozellikbuttn" type="button">Ürün ID</button>
+                </span>
+                @*<input type="text" class="form-control" placeholder="Ürün ID alanı">*@
+                <select class="form-control">
+                    @foreach (var item in ViewBag.urunler)
+                    {
+                        <option value="@item.UrunlerID">@item.UrunAdi</option>
+                    }
+
+                </select>
+            </div><!-- /input-group -->
+            <br />
+            <div class="input-group">
+                <span class="input-group-btn ozellik">
+                    <button class="btn btn-default ozellikbuttn" type="button">Özellik Tanımı</button>
+                </span>
+                <input type="text" class="form-control" placeholder="Search for...">
+            </div><!-- /input-group -->
+            <br />
+
+            <div class="input-group">
+
+                <span class="input-group-btn ozellik">
+                    <button class="btn btn-default ozellikbuttn" type="button">Ölçü Birimi</button>
+                </span>
+                @*<input type="text" class="form-control" placeholder="Search for...">*@
+
+                <select class="form-control">
+                    @foreach (var item in ViewBag.olculer)
+                    {
+                        <option value="@item.OlcuBirimiAdi">@item.OlcuBirimiAdi</option>
+                    }
+                </select>
+            </div><!-- /input-group -->
+            <br />
+            <div class="input-group">
+
+                <span class="input-group-btn ozellik">
+                    <button class="btn btn-default ozellikbuttn" type="button">Birim stok</button>
+                </span>
+                <input type="text" class="form-control" placeholder="Search for...">
+            </div><!-- /input-group -->
+            <br />
+            <div class="input-group">
+
+                <span class="input-group-btn ozellik">
+                    <button class="btn btn-default ozellikbuttn" type="button">Kalan stok</button>
+                </span>
+                <input type="text" class="form-control" placeholder="Search for...">
+            </div><!-- /input-group -->
+            <!--**********************************-->
+            <hr />
+            <div style="float:right">
+
+                <button class="btn btn-success" type="submit">Ürün Özellik Kaydet</button>
+            </div>
+        </div>
+    </div>
+
+</form>
